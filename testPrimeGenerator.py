@@ -1,6 +1,6 @@
 import unittest
 
-
+#Imports the function generate_primes from the generatePrimesFunction function file
 from generatePrimesFunction import generate_primes
 
 
