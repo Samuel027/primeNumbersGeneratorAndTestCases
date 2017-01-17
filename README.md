@@ -3,4 +3,4 @@
 
 
 # screenshot
-[!screenshot](https://github.com/Samuel027/programming-logic-tdd-git-version-control/blob/master/ScreenshotOfTests.png?raw=trueg)
+![screenshot](https://raw.githubusercontent.com/Samuel027/programming-logic-tdd-git-version-control/master/ScreenshotOfTests.png)
