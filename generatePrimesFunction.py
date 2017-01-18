@@ -17,3 +17,6 @@ def generate_primes(n):
 
 	return primes
 
+if __name__ == '__main__':
+	print(generate_primes(5))
+	print(generate_primes(1))
