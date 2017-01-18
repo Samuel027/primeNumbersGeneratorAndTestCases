@@ -48,7 +48,7 @@ Tests can be ran using python by executing the following command
 
 ## Authors
 
-* [Samuel Maina](https://github.com/PurpleBooth)
+* [Samuel Maina](https://github.com/Samuel027)
 
 ## License
 
