@@ -20,6 +20,12 @@ class TestFunctionInputs(unittest.TestCase):
 	def test_input_zero(self):
 		with self.assertRaises(ValueError):
 			generate_primes(0)
+	
+	def test_one_not_in_primes(self):
+		self.assertNotIn(1, tuple(generate_primes(5)))
+
+	def test_five_in_primes(self):
+		self.assertIn(5, tuple(generate_primes(10)))
 
 
 
